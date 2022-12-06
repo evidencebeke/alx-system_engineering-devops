@@ -1,11 +1,37 @@
-total 52
--rwxrwxr-- 1 vagrant vagrant 32 Dec  5 13:03 0-hello_world
--rwxrwxr-- 1 vagrant vagrant 31 Dec  5 08:29 1-confused_smiley
--rwxrw-r-- 1 vagrant vagrant 20 Dec  5 21:39 10-no_more_javascript
--rwxrw-r-- 1 vagrant vagrant 26 Dec  5 21:55 11-directories
--rwxrw-r-- 1 vagrant vagrant 26 Dec  5 23:10 12-newest_files
--rwxrwxr-- 1 vagrant vagrant 28 Dec  5 08:50 2-hellofile
--rwxrwxr-- 1 vagrant vagrant 39 Dec  5 08:54 3-twofiles
--rwxrwxr-- 1 vagrant vagrant 29 Dec  5 13:05 4-lastlines
--rwxrw-r-- 1 vagrant vagrant 29 Dec  5 23:31 5-firstlines
--rwxrw-r-- 1 vagrant vagrant 29 Dec  5 23:31 5-firstlines
+0-hello_world
+1-confused_smiley
+10-no_more_js
+11-directories
+12-newest_files
+13-unique
+2-hellofile
+3-twofiles
+4-lastlines
+5-firstlines
+6-third_line
+7-file
+8-cwd_state
+9-duplicate_last_line
+README.md
+iacta
+js
+myfile
+0-hello_world
+1-confused_smiley
+10-no_more_js
+11-directories
+12-newest_files
+13-unique
+2-hellofile
+3-twofiles
+4-lastlines
+5-firstlines
+6-third_line
+7-file
+8-cwd_state
+9-duplicate_last_line
+README.md
+iacta
+js
+myfile
+How are you doing today
